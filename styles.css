@@ -40,7 +40,7 @@ body {
 
 #dateNumber {
     font-size: 50px;
-    margin-left: 14px;
+    margin-left: 21px;
 }
 
 #dateText {
@@ -67,6 +67,7 @@ form {
     display: grid;
     grid-auto-flow: column;
     grid-template-columns: auto 70px auto;
+    widht: 70px;
     grid-column-gap: 15px;
 }
 
