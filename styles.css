@@ -40,7 +40,7 @@ body {
 
 #dateNumber {
     font-size: 50px;
-    margin-left: 28px;
+    margin-left: 36px;
 }
 
 #dateText {
@@ -75,8 +75,9 @@ input {
     border: none;
     padding-left: 10px;
     background-color: var(--diabled);
-    widht: 70px;
-    height: 70px;
+    widht: 50px;
+    height: 50px;
+    font-size: 50px;
 }
 
 input:focus {
@@ -87,14 +88,15 @@ input:focus {
     border: none;
     font-weight: bold;
     cursor: pointer;
-    widht: 70px;
-    height: 70px;
+    widht: 50px;
+    height: 50px;
+    font-size: 50px;
 }
 
 .addTaskButton {
-    height: 70px;
-    widht: 70px;
-    border-radius: 50%;
+    height: 50px;
+    widht: 50px;
+    border-radius: 50px;
     font-size: 50px;
     background-color: var(--diabled);
 }
@@ -102,8 +104,9 @@ input:focus {
 .orderButton {
     background-color: var(--secondary);
     color: var(--light);
-    widht: 70px;
-    height: 70px;
+    widht: 50px;
+    height: 50px;
+    border-radius: 10px;
 }
 
 .task {
