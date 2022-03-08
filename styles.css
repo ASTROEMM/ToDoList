@@ -58,7 +58,7 @@ body {
 
 #dateMonth,
 #dateYear {
-    margin-left: 28px;
+    margin-left: 21px;
     font-size: 30px;
 }
 
@@ -96,8 +96,8 @@ input:focus {
 .addTaskButton {
     height: 50px;
     widht: 50px;
-    border-radius: 50px;
-    font-size: 20px;
+    border-radius: 25px;
+    font-size: 40px;
     background-color: var(--diabled);
 }
 
