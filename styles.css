@@ -25,7 +25,7 @@ body {
     padding: 25px;
     background-color: rgb(124, 124, 124);
     width: 100%;
-    max-width: 350px;
+    max-width: 720px;
 }
 .date {
     display: flex;
