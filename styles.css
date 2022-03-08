@@ -5,7 +5,7 @@
     --dark: #000;
     --diabled: #e7e7e7;
 }
-.list title: {
+list title: {
  background-color: (var--primary);
 }
 body {
