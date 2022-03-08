@@ -108,3 +108,6 @@ input:focus {
     text-align: line-through;
     color: var(--dark);
 }
+h1 {
+ font-size: 70px;
+}
