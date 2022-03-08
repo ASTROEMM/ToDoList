@@ -63,7 +63,7 @@ form {
     margin: 20px 0;
     display: grid;
     grid-auto-flow: column;
-    grid-template-columns: auto 35px auto;
+    grid-template-columns: auto 70px auto;
     grid-column-gap: 15px;
 }
 
@@ -84,9 +84,9 @@ input:focus {
 }
 
 .addTaskButton {
-    height: 35px;
+    height: 70px;
     border-radius: 50%;
-    font-size: 18px;
+    font-size: 36px;
     background-color: var(--diabled);
 }
 
