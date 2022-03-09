@@ -12,7 +12,7 @@ body {
     font-family: 'Lato', sans-serif;
     margin: 0;
     height: 100vh;
-    background-color: rgb(153, 214, 204);
+    background: linear-gradient(to bottom, blue, orange);
 }
 
 *::first-letter {
