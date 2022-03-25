@@ -97,7 +97,6 @@ input:focus {
 }
 
 .addTaskButton {
-    height: 50px;
     widht: 50px;
     border-radius: 50%;
     font-size: 40px;
